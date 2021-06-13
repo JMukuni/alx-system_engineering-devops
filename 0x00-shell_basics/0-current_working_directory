@@ -1,6 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-main()
-{
-    printf("pwd\n");
-    }
+#include <stdio.h> main() { printf("pwd\n") }
