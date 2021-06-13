@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "pwd"
+#include <stdio.h>
+main()
+{
+    printf("pwd\n");
+    }
