@@ -1,0 +1,1 @@
+Shell redirections kicks off
