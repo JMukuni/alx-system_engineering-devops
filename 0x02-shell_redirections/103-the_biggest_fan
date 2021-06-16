@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d "IFS" -f1,2,3,4,5,6,7,8,9,10,11 | head -n +11 
+tail -n +2 | cut -f 1 | sort | uniq \
