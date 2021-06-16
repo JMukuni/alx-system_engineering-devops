@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | find . -maxdepth 1 -empty 
+find . -depth -empty -printf %f'\n' \
