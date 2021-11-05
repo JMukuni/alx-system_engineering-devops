@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#changes localhost and Facebook addresses
+
+cp /etc/hosts ~/hosts.alter
+echo "127.0.0.2    localhost" > ~/hosts.alter
+echo "8.8.8.8      facebook.com" >> ~/hosts.alter
+cp -f ~/hosts.alter /etc/hosts
