@@ -1,0 +1,1 @@
+Learning about Firewall, it's types and functions. Also learning how to setup ufw firewall and setting up rules. Finally l have to learn how firewall can also forward requests.
